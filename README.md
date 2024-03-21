@@ -1,0 +1,1 @@
+Permet d'extraire la transcription depuis l'enregistrement d'une Page web spotify.
